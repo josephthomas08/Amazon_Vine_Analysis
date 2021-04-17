@@ -1,7 +1,10 @@
 # Amazon_Vine_Analysis
-Sellby Amazon reviews 
+## Sellby Amazon reviews 
 
 
+### 1. Overview
+
+The project is to expose the Amazon Vine program devloped by Amazon to understand, document, expand and analyse the product rating based on paid and unpaid reviews from the ever expanding cilientiele. The companies , service and manufacturing companies pay a small fee towards this program where in products are offered to Vine members who are then required to publish a review for the products and services. I have utlized the pySPark tool to extract, transform and load the home improvement dataset from Amazon reviews using Google COlab.
 
 
 
@@ -114,6 +117,62 @@ Sellby Amazon reviews
 <img width="812" alt="D2 1 10-11" src="https://user-images.githubusercontent.com/75267605/115119538-dc8b3500-9f76-11eb-851c-9af7aae3d3b2.png">
 
 
+
+The big idea of this big Data study is to understand if their is any bias toward favorable reviews from vine members.
+
+
+### 2. Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+
+#### 2.1 How many Vine reviews and non-Vine reviews were there?
+
+
+<img width="585" alt="D2 1 6-7" src="https://user-images.githubusercontent.com/75267605/115119529-c8473800-9f76-11eb-9570-c13bbaf9c5d5.png">
+
+
+From the above analysis we see the following 
+
+##### Paid review is 266
+##### unpdaid review is 38829
+
+
+
+
+
+#### 2.2 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+
+
+<img width="570" alt="D2 1 8-9" src="https://user-images.githubusercontent.com/75267605/115119530-cd0bec00-9f76-11eb-8a87-128b1ea60629.png">
+
+
+
+From the above analysis we see the following 
+
+##### Paid Vine 5 Star reviews are 125
+##### Unpaid or non- vine reviews are 18246
+
+
+#### 2.3 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+<img width="812" alt="D2 1 10-11" src="https://user-images.githubusercontent.com/75267605/115119538-dc8b3500-9f76-11eb-851c-9af7aae3d3b2.png">
+
+
+From the above analysis we see the following 
+
+##### Paid Vine % 5 Star reviews is 47 % 
+##### Unpaid or non- vine  % 5 star reviews is 47 % 
+
+The percentage for 5 star analysis reveals the chances of bias bewteen vine and non-vine members or paid and unpaid members is not very much visible.
+
+
+
+
+
+### 3 Summary: 
+The analysis overall in the 5 star review did not provide us with any noticable difference between paid and unpaid reviews but additional analysis with 4 star added on to the analysis will provide us with better understanding of the bias difference between paid and unpaid reviews.
+
+
+ To further evaluate the study additional analysis to incorporate the 4 star along with 5 star  review is conducted which is as displayed below.
 ### Additional Analysis 
 
 
@@ -123,7 +182,14 @@ Sellby Amazon reviews
 <img width="768" alt="D2 2 3-4" src="https://user-images.githubusercontent.com/75267605/115119546-e90f8d80-9f76-11eb-98de-8c65db4d809e.png">
 
 
-## Deliverable 3: A Written Report on the Analysis 
+
+##### Paid Vine % 5 Star reviews is 76 % 
+##### Unpaid or non- vine  % 5 star reviews is 63 % 
+
+In this analysis we see a susbtantial difference of 13 % in paid and unpaid review. We can fairly say now that the paid Vine members does create substantial bias. This bias will be more evidennt when we include 3 star review along with 4 and 5 star by  paid Vine members to improve the visibility and credibility of manufacturers, companies, suppliers and service providers.
+
+
+
 
 
 
