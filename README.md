@@ -62,7 +62,7 @@ The project is to expose the Amazon Vine program devloped by Amazon to understan
 
 
 
-#### D1.2.2 products Table loaded in PG-Admin 
+#### D1.2.3 products Table loaded in PG-Admin 
 
 
 <img width="370" alt="D1 2 3 products table " src="https://user-images.githubusercontent.com/75267605/115099897-f8ef8900-9f06-11eb-8e3c-9557a2043260.png">
@@ -70,7 +70,7 @@ The project is to expose the Amazon Vine program devloped by Amazon to understan
 
 
 
-#### D1.2.3 Review Id Table loaded in PG-Admin 
+#### D1.2.4 Review Id Table loaded in PG-Admin 
 
 
 <img width="625" alt="D1 2 4 review id table " src="https://user-images.githubusercontent.com/75267605/115099901-03aa1e00-9f07-11eb-9742-a31d931dd284.png">
