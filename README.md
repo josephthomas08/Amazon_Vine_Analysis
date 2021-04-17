@@ -8,8 +8,8 @@ The project is to expose the Amazon Vine program devloped by Amazon to understan
 
 
 ### Resources
-Data Source: Amazon Review datasets, Home improvement 
-Software: Google Colab Notebook, PostgreSQL 13.2, pgAdmin 4, AWS
+#### 1. Data Source: Amazon Review datasets, Home improvement 
+#### 2. Software: Google Colab Notebook, PostgreSQL 13.2, pgAdmin 4, AWS
 
 
 ## Deliverable 1: Perform ETL on Amazon Product Reviews
