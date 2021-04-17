@@ -121,9 +121,9 @@ The project is to expose the Amazon Vine program devloped by Amazon to understan
 The big idea of this big Data study is to understand if their is any bias toward favorable reviews from vine members.
 
 
-### 2. Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+### 2. Results
 
-#### 2.1 How many Vine reviews and non-Vine reviews were there?
+#### 2.1 Number of vine and nonvine members
 
 
 <img width="585" alt="D2 1 6-7" src="https://user-images.githubusercontent.com/75267605/115119529-c8473800-9f76-11eb-9570-c13bbaf9c5d5.png">
@@ -138,7 +138,7 @@ From the above analysis we see the following
 
 
 
-#### 2.2 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+#### 2.2 Number of 5 star vine and non vine reviewers.
 
 
 
@@ -152,7 +152,7 @@ From the above analysis we see the following
 ##### Unpaid or non- vine reviews are 18246
 
 
-#### 2.3 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+#### 2.3 Percentage of five start vine and non vine reviews 
 
 <img width="812" alt="D2 1 10-11" src="https://user-images.githubusercontent.com/75267605/115119538-dc8b3500-9f76-11eb-851c-9af7aae3d3b2.png">
 
