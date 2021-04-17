@@ -81,14 +81,14 @@ The project is to expose the Amazon Vine program devloped by Amazon to understan
 ## Deliverable 2: Determine Bias of Vine Reviews
 
 
-### There is a DataFrame or table for the vine_table data using one of three methods above - Used pyspark 
+### DataFrame for the vine_table data using one of three methods above - I have used pyspark 
 
 
 <img width="1564" alt="D2 1 0" src="https://user-images.githubusercontent.com/75267605/115119459-6b4b8200-9f76-11eb-8f3f-b85330532ec2.png">
 
 
 
-### Recreate the VIne Table and data is filtered to create a DataFrame  where there are 20 or more total votes
+### Recreated the Vine Table and data is filtered to create a DataFrame  where there are 20 or more total votes
 
 <img width="945" alt="D2 1 1" src="https://user-images.githubusercontent.com/75267605/115119498-a8177900-9f76-11eb-8198-4f1b5a7fe96c.png">
 
@@ -97,15 +97,15 @@ The project is to expose the Amazon Vine program devloped by Amazon to understan
 
 
 
-### The data is filtered to create a DataFrame or table where the percentage of helpful_votes is equal to or greater than 50% 
+### The data is filtered to create a DataFrame where the percentage of helpful_votes is equal to or greater than 50% 
 
 <img width="1536" alt="D2 1 3" src="https://user-images.githubusercontent.com/75267605/115119512-b4033b00-9f76-11eb-9bce-aa63386e8408.png">
 
-### The data is filtered to create a DataFrame or table where there is a Vine review 
+### The data is filtered to create a DataFrame where there is a Vine review 
 
 <img width="999" alt="D2 1 4" src="https://user-images.githubusercontent.com/75267605/115119521-be253980-9f76-11eb-9b47-f67975279381.png">
 
-### The data is filtered to create a DataFrame or table where there isn’t a Vine review 
+### The data is filtered to create a DataFrame where there isn’t a Vine review 
 
 <img width="1010" alt="D2 1 5" src="https://user-images.githubusercontent.com/75267605/115119527-c54c4780-9f76-11eb-907c-79257694c82c.png">
 
