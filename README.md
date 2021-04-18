@@ -4,7 +4,9 @@
 
 ### 1. Overview
 
-The project is to expose the Amazon Vine program devloped by Amazon to understand, document, expand and analyse the product rating based on paid and unpaid reviews from the ever expanding cilientiele. The companies , service and manufacturing companies pay a small fee towards this program where in products are offered to Vine members who are then required to publish a review for the products and services. I have utlized the pySPark tool to extract, transform and load the home improvement dataset from Amazon reviews using Google COlab.
+The project is to expose the Amazon Vine program devloped by Amazon to understand, document, expand and analyse the product rating based on paid and unpaid reviews from the ever expanding cilientiele. 
+
+The companies , service and manufacturing companies pay a small fee towards this program where in products are offered to Vine members who are then required to publish a review for the products and services. I have utlized the pySPark tool to extract, transform and load the home improvement dataset from Amazon reviews using Google COlab.
 
 
 ### Resources
